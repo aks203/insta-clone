@@ -1,0 +1,16 @@
+.post {
+    background-color: white;
+    max-width: 500px;
+    border: 1px solid lightgrey;
+}
+
+.postImage {
+    width: 100%;
+    object-fit: contain;
+}
+
+.postHeader {
+    display: flex;   /* Keep items in a single row */
+    align-items: center;
+    padding: 10px;
+}
